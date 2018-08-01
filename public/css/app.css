@@ -26,7 +26,7 @@ div {
   width: 3.125rem;
   height: 3.125rem;
   border-radius: 1.5625rem;
-  background: #AB72F8;
+  background: #3e86d8;
   top: 0.3125rem;
   right: 0.3125rem;
   line-height: 3.125rem;
@@ -123,7 +123,7 @@ div {
   color: #fff;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
-  background: #00B4A0;
+  background: #0070B5;
   border-radius: 1.25rem;
   border-bottom-right-radius: 0;
   text-align: left;
@@ -182,7 +182,7 @@ div {
 
 .from-watson.latest.top p:before {
   content: ".";
-  color: #9855D4;
+  color: #326bc0;
   background-image: url("../img/marker_image.png");
   background-size: 0.3125rem 1.3125rem;
   position: absolute;
@@ -210,7 +210,7 @@ div {
 }
 
 #textInput.underline {
-  border-bottom: 2px solid #00B4A0;
+  border-bottom: 2px solid #3e86d8;
 }
 
 ::-webkit-input-placeholder {
@@ -304,7 +304,7 @@ pre {
 }
 
 .boolean, .null, .number {
-  color: #CE8EFF;
+  color: #3e86d8;
 }
 
 .key {
